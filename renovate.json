@@ -3,6 +3,7 @@
   "extends": ["config:recommended"],
   "baseBranches": ["master"],
   "platform": "github",
+  "prHourlyLimit": 0,
   "separateMultipleMajor": true,
   "enabledManagers": ["gradle"],
   "packageRules": [
