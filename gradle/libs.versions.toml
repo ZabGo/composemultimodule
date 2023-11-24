@@ -1,6 +1,6 @@
 [versions]
 androidGradlePlugin = "7.4.2"
-androidxActivity = "1.6.1"
+androidxActivity = "1.8.1"
 androidxComposeBom = "2023.03.00"
 androidxComposeCompiler = "1.4.3"
 androidxCore = "1.9.0"
