@@ -16,7 +16,7 @@ composeWear = "1.0.0"
 coroutines = "1.6.4"
 hilt = "2.45"
 junit = "4.13.2"
-kotlin = "1.8.10"
+kotlin = "1.9.21"
 
 [libraries]
 android-tools-build-gradle-plugin = { group = "com.android.tools.build", name = "gradle", version.ref = "androidGradlePlugin" }
